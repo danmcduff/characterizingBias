@@ -1,5 +1,5 @@
 
-# Characterizing Bias in Classifiers using GenerativeModels
+# Characterizing Bias in Classifiers using Generative Models
 
 
 
