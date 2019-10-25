@@ -1,13 +1,13 @@
 
-Characterizing Bias in Classifiers using GenerativeModels
+# Characterizing Bias in Classifiers using GenerativeModels
 
 
 
-CODE:
+## Code:
 
 The folders GAN_Code and Sampling_Code contain the code used to generate our results.  Each folder contains it's own ReadMe with further details. 
 
-DATA:
+## Data:
 
 We release our selected MSCeleb subset for training, one can download the 
 data from the link:
