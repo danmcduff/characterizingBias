@@ -26,7 +26,7 @@ Prepare data:
 
 We release our selected MSCeleb subset for training, one can download the 
 data from the link:
-https://drive.google.com/open?id=1xZ622AXiwhr4apzoM_M7M2yKi8MyqEVq
+https://drive.google.com/file/d/1Xz5EqFTpBzyWXSH2V3wwFFYsp4xjQWMb/view?usp=sharing
 
 All the images are stored in 'balanced_128_0325.pickle', and the according label
 are stored in 'balanced_multi_label_0325.pickle'.
@@ -54,7 +54,7 @@ python NeurIPS_Sampling_Code.py
 
 We release our selected MSCeleb subset for training, one can download the 
 data from the link:
-https://drive.google.com/open?id=1xZ622AXiwhr4apzoM_M7M2yKi8MyqEVq
+https://drive.google.com/file/d/1Xz5EqFTpBzyWXSH2V3wwFFYsp4xjQWMb/view?usp=sharing
 All the images are stored in 'balanced_128_0325.pickle', and the according label
 are stored in 'balanced_multi_label_0325.pickle'.
 To train the model, the original data need to processed into *.tfrecods format.
